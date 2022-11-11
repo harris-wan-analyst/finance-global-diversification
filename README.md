@@ -44,7 +44,7 @@
 #### 5. CAPM Model
 - Regression Analysis 
 
-#### 6. 4-Factor Model 
+#### 6. Fama-French-Carhart 4-Factor Model 
 - Constant: pos: outperfomed market / neg: underperformed market
 - SMB: pos: small cap / neg: large cap 
 - HML: pos: value stocks / neg: growth stock 
