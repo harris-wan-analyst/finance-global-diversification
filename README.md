@@ -46,6 +46,7 @@
 
 #### 6. Fama-French-Carhart 4-Factor Model 
 - Constant: pos: outperfomed market / neg: underperformed market
+- Mkt-Rf: pos: co-movement with market / neg: move in opposite direction from market
 - SMB: pos: small cap / neg: large cap 
 - HML: pos: value stocks / neg: growth stock 
 - Mom: pos: momentum stocks / neg: X momenum stocks
