@@ -1,6 +1,10 @@
 # Finance Project: Global Diversification 
 
-### Motivation: Investigate whether investing globally would lead to lower risks and higher long-term returns
+### Motivation: 
+
+1. Investigate whether investing globally would lead to lower risks and higher long-term returns
+
+2. Measure performance and effectiveness during Covid (stock market experience high volatilty)
 
 ---------
 
@@ -52,3 +56,15 @@
 
 #### 8. Limitations
 - Kurtosis (might underestimate / overestimate due to the inclusion of extreme outcomes)
+
+---------
+
+### Conclusion
+
+1. Hypothesis Rejected (Depends on Investor Strategies and their Weight Put on Each Stock/ETF)
+
+2. All ETFs generated loss --> High Correlation among the 3 ETFs (downturn of 1 stock market drags the others)
+
+3. Advanced Models (CAPM & 4-Factor Models) provides better understandings of the ETFs
+
+4. Consider limitations of each project and their potential effects
