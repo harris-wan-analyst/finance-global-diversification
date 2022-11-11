@@ -45,9 +45,9 @@
 - Regression Analysis 
 
 #### 6. 4-Factor Model 
+- Constant --> Pos: Outperformed market / Neg: Underperformed market
 - SMB --> Small Cap / Large Cap Stock
-- HML --> Value / Growth Stock 
-- RF ---> Risk Free Rate 
+- HML --> Value / Growth Stock  
 - Mom --> Momentum Stock (Yes or No) 
 
 #### 7. Portfolio Sort 
