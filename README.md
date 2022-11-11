@@ -45,10 +45,10 @@
 - Regression Analysis 
 
 #### 6. 4-Factor Model 
-- Constant --> Pos: Outperformed market / Neg: Underperformed market
-- SMB --> Small Cap / Large Cap Stock
-- HML --> Value / Growth Stock  
-- Mom --> Momentum Stock (Yes or No) 
+- Constant: pos: outperfomed market / neg: underperformed market
+- SMB: pos: small cap / neg: large cap 
+- HML: pos: value stocks / neg: growth stock 
+- Mom: pos: momentum stocks / neg: X momenum stocks
 
 #### 7. Portfolio Sort 
 - Sorts trading days according to trading volumes of all ETFs and examines their return differences between high volume days and low volume days
